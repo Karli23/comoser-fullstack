@@ -1,0 +1,5 @@
+Já um desenvolvedor back-end precisa ter as seguintes habilidades:
+
+APIs
+Banco de Dados (MySQL, Postgresql, MongoDB)
+Java, Pyhton, Ruby on Rails, PHP ou Node.js
